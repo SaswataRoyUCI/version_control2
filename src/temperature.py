@@ -2,6 +2,7 @@
 
 """This is a python  module that converts tmperature
 This is the idea when I need to change something
+	Soudagor mara gelo!
 """
 def f_to_k(temp):
 	converted = ((temp-32.0)*(5.0/9.0))+273.15
